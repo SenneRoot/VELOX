@@ -8,7 +8,7 @@ VELOX, which stands for **Velocity Enhancement Limit Override X**, is an open-so
 
 ### Project Goals
 
-The primary objective of VELOX is to empower eBike enthusiasts by offering a solution to elevate the speed limits of their Tenways eBikes. Through meticulous development and testing, we aim to create a reliable and user-friendly enhancement system that allows riders to experience an amplified velocity.
+The primary objective of VELOX is to empower eBike enthusiasts by offering a solution to elevate the speed limits of their Tenways eBikes. We aim to create a reliable and user-friendly enhancement system that allows riders to experience an amplified velocity.
 
 ### Key Features
 
