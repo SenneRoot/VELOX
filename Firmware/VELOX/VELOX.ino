@@ -1,6 +1,6 @@
 #include "src/Controller/MiviceC201.h"
 
-constexpr pin_size_t speedHackEnabledoutputPin = 4;
+constexpr pin_size_t speedHackEnabledoutputPin = 2;
 constexpr byte speed = 32;
 bool speedHackEnabled = false;
 
