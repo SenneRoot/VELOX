@@ -15,6 +15,11 @@ The primary objective of VELOX is to empower eBike enthusiasts by offering a sol
 - **Speed Enhancement:** VELOX offers a controlled method to boost your eBike's speed.
 - **User Accessibility:** We aim for a user-friendly interface, making the speed enhancement process straightforward and accessible to all skill levels.
 
+### VELOX PCB
+
+<img src="https://github.com/SenneRoot/VELOX/assets/19331519/a7c199f3-26df-416a-96e1-d0385ec92912" width="500" height="500">
+<img src="https://github.com/SenneRoot/VELOX/assets/19331519/dd6fd7a9-e229-4743-9f28-0228c357f167" width="500" height="500">
+
 ### Tenways Display-Controller Connection
 
 Tenways employs a 5-pin M6 connector for the display-controller link, featuring the following pinout:
