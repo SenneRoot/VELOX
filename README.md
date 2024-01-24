@@ -40,6 +40,13 @@ Tenways employs a 5-pin M6 connector for the display-controller link, featuring 
 | 4   | RX  | Data receive of the display          |
 | 5   | TX  | Data transmit of the display         |
 
+### Dependencies
+
+VELOX relies on the following libraries:
+- [megaTinyCore](https://github.com/SpenceKonde/megaTinyCore) - Arduino support for all tinyAVR 0/1/2-Series.
+- [EEPROMWearLevel](https://github.com/PRosenb/EEPROMWearLevel) - EEPROMWearLevel bases on the EEPROM library included in the Arduino framework.
+It reduces EEPROM wear by writing every new value to an other EEPROM location.
+
 ### How to Contribute
 
 We welcome contributions from the community to improve VELOX. Whether you're a developer or enthusiast, your input can help shape a better and more efficient speed enhancement solution for Tenways eBikes. Feel free to explore the code, submit bug reports, propose new features, or join discussions to contribute to this exciting project!
