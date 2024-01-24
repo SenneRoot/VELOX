@@ -6,6 +6,11 @@ Welcome to VELOX – your gateway to enhancing the speed limits of your Tenways 
 
 VELOX, which stands for **Velocity Enhancement Limit Override X**, is an open-source project aimed at unlocking the potential for increased speed on Tenways eBikes. Our goal is to provide a method to push the boundaries of your eBike's performance.
 
+### Tested models
+
+VELOX has been tested on the following bike model:
+- **Tenways CGO 600 Pro**
+
 ### Project Goals
 
 The primary objective of VELOX is to empower eBike enthusiasts by offering a solution to elevate the speed limits of their Tenways eBikes. We aim to create a reliable and user-friendly enhancement system that allows riders to experience an amplified velocity.
