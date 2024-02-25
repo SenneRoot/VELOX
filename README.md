@@ -22,8 +22,8 @@ The primary objective of VELOX is to empower eBike enthusiasts by offering a sol
 
 ### VELOX PCB
 
-<img src="https://github.com/SenneRoot/VELOX/assets/19331519/a7c199f3-26df-416a-96e1-d0385ec92912" width="500" height="500">
-<img src="https://github.com/SenneRoot/VELOX/assets/19331519/dd6fd7a9-e229-4743-9f28-0228c357f167" width="500" height="500">
+<img src="https://github.com/SenneRoot/VELOX/blob/main/Images/VELOX_2D.png" width="500" height="500">
+<img src="https://github.com/SenneRoot/VELOX/blob/main/Images/VELOX.png" width="500" height="500">
 
 ### Tenways Display-Controller Connection
 
